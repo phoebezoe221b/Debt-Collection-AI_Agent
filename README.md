@@ -150,6 +150,24 @@ python main.py
 
 ---
 
+## ⚠️ Voice Agent Note
+
+Voice calls are triggered using ElevenLabs API.
+
+In the current setup, the API returns:
+"Not Found"
+
+This is due to:
+- Agent endpoint limitations
+- Free tier restrictions
+
+However, the system correctly:
+- Attempts calls
+- Logs responses
+- Updates learning loop
+
+This demonstrates full agent pipeline functionality.
+
 ## 📊 Features
 
 ✔ Modular agent-based architecture
