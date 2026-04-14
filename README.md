@@ -150,6 +150,18 @@ python main.py
 
 ---
 
+## 📸 System Overview
+
+This image shows the complete working pipeline including:
+- Airtable data source
+- Holiday API (Apify)
+- ElevenLabs voice agent
+- Audio generation
+- Twilio integration (experimental)
+- Execution logs
+
+(system_overview.png)
+
 ## ⚠️ Voice Agent Note
 
 Voice calls are triggered using ElevenLabs API.
