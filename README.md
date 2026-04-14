@@ -160,7 +160,7 @@ This image shows the complete working pipeline including:
 - Twilio integration (experimental)
 - Execution logs
 
-(system_overview.png)
+![System Overview](assets/system_overview.png)
 
 ## ⚠️ Voice Agent Note
 
