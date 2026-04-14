@@ -1,0 +1,8 @@
+AIRTABLE_API_KEY = "patyzy2ckSObzFu3a.16ad0410833f6b747952e25f1b01e103e81a2dad7f074ce0dd5aabdc9b533012"
+BASE_ID = "appEmyKlcwYFtnjL8"
+TABLE_NAME = "Debtors"
+
+ELEVEN_API_KEY = "sk_1bbeef6537175a83faa2bf8103e4f19ebbb4216ea5101ffe"
+AGENT_ID = "agent_6801kp2kh1w6ftz8hfy7k5xc1309"
+
+APIFY_TOKEN = "apify_api_niFYXQlE79ShIiUyTVIDcPFORhELeL2w8Aye"
